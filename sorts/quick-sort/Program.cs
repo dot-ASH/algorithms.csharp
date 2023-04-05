@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace algorithm.quickSort
+namespace algorithm.sorts.quickSort
 {
     class Program
     {

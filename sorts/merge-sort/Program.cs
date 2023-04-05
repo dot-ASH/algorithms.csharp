@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace algorithm.mergeSort
+namespace algorithm.sorts.mergeSort
 {
     class Program
     {
