@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/bin/Debug/net6.0/bubble-sort
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/bin/Debug/net6.0/bubble-sort.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/bin/Debug/net6.0/bubble-sort.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/bin/Debug/net6.0/bubble-sort.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/bin/Debug/net6.0/bubble-sort.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/refint/bubble-sort.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/bubble-sort.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/bubble-sort/obj/Debug/net6.0/ref/bubble-sort.dll

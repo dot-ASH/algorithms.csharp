@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace algorithm.binarySearch
+namespace algorithm.BinarySearch
 {
     class Program
     {

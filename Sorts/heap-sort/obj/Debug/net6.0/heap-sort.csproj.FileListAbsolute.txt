@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/bin/Debug/net6.0/heap-sort
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/bin/Debug/net6.0/heap-sort.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/bin/Debug/net6.0/heap-sort.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/bin/Debug/net6.0/heap-sort.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/bin/Debug/net6.0/heap-sort.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/refint/heap-sort.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/heap-sort.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/Sorts/heap-sort/obj/Debug/net6.0/ref/heap-sort.dll
