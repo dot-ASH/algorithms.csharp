@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace algorithm.BFS
+namespace algorithm.DFS
 {
     class Program
     {
@@ -16,10 +16,11 @@ namespace algorithm.BFS
             graph.addEdge(2, 4);
 
             graph.printGraph();
-            Console.WriteLine("Breadth first search:- ");
-            graph.bfs(0);
+            Console.WriteLine("Depth First Traversal:- ");
+            graph.dfs();
         }
     }
+
     public class Graph
     {
         private int vertices;
@@ -39,37 +40,26 @@ namespace algorithm.BFS
             adj[v].Add(w);
         }
 
-        public void bfs(int start)
+        public void dfs()
         {
             bool[] visited = new bool[vertices];
-            Queue<int> queue = new Queue<int>();
-            for (int i = start; i < vertices; ++i)
-                if (visited[i] == false)
-                {
-                    int[] tempNode = visitNode(i, visited);
-                    foreach (var item in tempNode)
-                    {
-                        queue.Enqueue(item);
-                    }
-                }
-            Console.WriteLine(string.Join(" > ", queue));
+            for (int i = 0; i < vertices; ++i)
+                if (visited[i] == false) visitNode(i, visited);
+            Console.WriteLine();
         }
-        public int[] visitNode(int ver, bool[] visited)
+
+        public void visitNode(int ver, bool[] visited)
         {
             visited[ver] = true;
-
-            int[] tempNode = new int[adj[ver].Count + 1];
-            tempNode[0] = ver;
-            for (int i = 0; i <= adj[ver].Count; i++)
+            Console.Write(ver + " ");
+            foreach (int i in adj[ver])
             {
                 if (!visited[i])
-                {
-                    visited[i] = true;
-                    tempNode[i] = i;
-                }
+                    visitNode(i, visited);
             }
-            return tempNode;
+
         }
+
         public void printGraph()
         {
 
@@ -77,6 +67,9 @@ namespace algorithm.BFS
             {
                 Console.Write($"{i} > " + string.Join(",", adj[i]) + "\n");
             }
+
         }
+
+
     }
 }

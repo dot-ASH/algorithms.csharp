@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/bin/Debug/net6.0/euclid
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/bin/Debug/net6.0/euclid.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/bin/Debug/net6.0/euclid.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/bin/Debug/net6.0/euclid.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/bin/Debug/net6.0/euclid.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/refint/euclid.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/euclid.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/euclid/obj/Debug/net6.0/ref/euclid.dll
