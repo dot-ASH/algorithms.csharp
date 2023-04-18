@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/bin/Debug/net6.0/kruskals
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/bin/Debug/net6.0/kruskals.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/bin/Debug/net6.0/kruskals.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/bin/Debug/net6.0/kruskals.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/bin/Debug/net6.0/kruskals.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/refint/kruskals.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/kruskals.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kruskals/obj/Debug/net6.0/ref/kruskals.dll
