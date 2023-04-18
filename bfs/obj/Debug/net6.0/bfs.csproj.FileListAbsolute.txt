@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/bin/Debug/net6.0/bfs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/bin/Debug/net6.0/bfs.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/bin/Debug/net6.0/bfs.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/bin/Debug/net6.0/bfs.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/bin/Debug/net6.0/bfs.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/refint/bfs.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/bfs.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/bfs/obj/Debug/net6.0/ref/bfs.dll
