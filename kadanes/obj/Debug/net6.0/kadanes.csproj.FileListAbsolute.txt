@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/bin/Debug/net6.0/kadanes
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/bin/Debug/net6.0/kadanes.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/bin/Debug/net6.0/kadanes.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/bin/Debug/net6.0/kadanes.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/bin/Debug/net6.0/kadanes.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/refint/kadanes.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/kadanes.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/kadanes/obj/Debug/net6.0/ref/kadanes.dll

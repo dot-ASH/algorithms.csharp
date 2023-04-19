@@ -1,0 +1,15 @@
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.csproj.AssemblyReference.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.GeneratedMSBuildEditorConfig.editorconfig
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.AssemblyInfoInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.AssemblyInfo.cs
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.csproj.CoreCompileInputs.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/bin/Debug/net6.0/floyd-cycle
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/bin/Debug/net6.0/floyd-cycle.deps.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/bin/Debug/net6.0/floyd-cycle.runtimeconfig.json
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/bin/Debug/net6.0/floyd-cycle.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/bin/Debug/net6.0/floyd-cycle.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/refint/floyd-cycle.dll
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.pdb
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/floyd-cycle.genruntimeconfig.cache
+/media/dot_ash/personal-nd-not-cool/productivity-nd-duh/Projects/Algorithm/floyd-cycle/obj/Debug/net6.0/ref/floyd-cycle.dll

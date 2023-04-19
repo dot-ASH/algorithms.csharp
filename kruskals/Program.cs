@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace algorithm.Kruskals
 {
@@ -6,8 +7,8 @@ namespace algorithm.Kruskals
     {
         public static void Main(String[] args)
         {
-            int vertices = 6; // Number of vertices
-            int edges = 8; // Number of edges
+            int vertices = 6;
+            int edges = 8;
             Graph graph = new Graph(vertices, edges);
 
             graph.edge[0].src = 0;
@@ -50,8 +51,9 @@ namespace algorithm.Kruskals
         public class Edge : IComparable<Edge>
         {
             public int src, dest, weight;
-            public int CompareTo(Edge compareEdge)
+            public int CompareTo(Edge? compareEdge)
             {
+                if (compareEdge == null) return 1;
                 return this.weight - compareEdge.weight;
             }
         }
